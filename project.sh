@@ -1,1 +1,1 @@
-echo "This is my jenkins pipeline project"
+echo "This is my jenkins pipeline project."
